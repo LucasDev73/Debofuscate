@@ -29,35 +29,13 @@ El script permite interpretar y recuperar el código original, convirtiendo valo
 ⚠️ Disclaimer
 
 Este código es para fines educativos y de análisis únicamente. El autor no se responsabiliza por usos indebidos.
+
 📁 Ejemplo Visual
-mejora esto y añade iconos Phishing HTML JavaScript Deobfuscator
 
-Este repositorio contiene un script en Python desarrollado para desofuscar código JavaScript malicioso ofuscado empleado en ataques de phishing, específicamente en campañas que involucran archivos HTML con objetos de mapeo numérico (como el objeto dpsh).
-Descripción
+Ejecuccion del Script: 
 
-En un reciente análisis de phishing distribuido vía WhatsApp, se detectó un archivo altamente ofuscado que generaba contenido HTML que simulaba una actualización oficial de Adobe Acrobat Reader, con soporte para múltiples idiomas, redirecciones maliciosas y uso de plataformas legítimas como Google Drive para alojar documentos fraudulentos.
+<img width="446" height="158" alt="imagen" src="https://github.com/user-attachments/assets/5bc42f00-06b5-4883-96fa-22aa3c621cca" />
 
-Este script facilita la interpretación y recuperación del código original para análisis forense y detección, transformando valores codificados en Unicode a texto legible.
-Uso
-    Clonar repositorio 
-    Colocar archivo HTML ofuscado en la carpeta raíz o especificar ruta
-    Ejecutar el script:
-
-    python deobfuscator.py archivo_ofuscado.html
-
-  Revisar archivo desofuscado generado para análisis.
-
-Beneficios
-
-   Simplifica análisis manual complejo.
-
-   Mejora efectividad de detección y respuesta.
-
-   Facilita generación de indicadores de compromiso (IoCs).
-
-Disclaimer
-
-Este código es para fines educativos y de análisis. El autor no se responsabiliza por usos indebidos.
 
 HTML ofuscado:
 
