@@ -1,5 +1,8 @@
 🛡️ Phishing HTML JavaScript Deobfuscator
 
+<img width="493" height="416" alt="imagen" src="https://github.com/user-attachments/assets/cb566688-9dfa-4830-9455-b14114d9e42f" />
+
+
 Este repositorio contiene un script en Python para desofuscar código JavaScript malicioso ofuscado, comúnmente utilizado en ataques de phishing. Está diseñado para campañas que usan archivos HTML con objetos de mapeo numérico (como el objeto dpsh).
 🔍 Descripción
 
